@@ -3,7 +3,7 @@
 ---
 
 ## Overview  
-This project showcases my expertise in data cleaning, analysis, and visualization by transforming raw healthcare data into actionable insights. The **Orthopedics Analytics Dashboard** is a dynamic Excel-based tool designed to analyze patient data for an orthopedic department. Starting from raw data, I performed end-to-end data wrangling, exploratory analysis, and dashboard creation to provide key metrics and insights for healthcare decision-making.  
+This project showcases my expertise in data cleaning, analysis, and visualization by transforming raw healthcare data into actionable insights. The **Orthopedics Analytics Dashboard** is a dynamic Excel-based tool designed to analyze patient data for an orthopedic department. Starting from raw data, I selected the data of 2023 and performed end-to-end data wrangling, exploratory analysis, and dashboard creation to provide key metrics and insights for healthcare decision-making.  
 
 This project demonstrates my ability to:  
 - Clean and preprocess raw data for analysis.  
