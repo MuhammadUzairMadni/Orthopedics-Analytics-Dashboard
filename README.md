@@ -67,7 +67,7 @@ The dataset was sourced from [Chris French's GitHub repository](https://github.c
 - **Patient Satisfaction**: Identified a moderate negative correlation between wait times and satisfaction scores, suggesting that reducing wait times could improve patient experience.  
 - **Age Distribution**: The majority of patients fell within the 01-80 age bracket, indicating a need for targeted orthopedic services for children, middle-aged, and older adults.  
 - **Operational Efficiency**: Highlighted departments with the highest referral rates and longest wait times, providing actionable insights for resource allocation.  
-
+![Orthopedic Dashboard](https://github.com/MuhammadUzairMadni/Orthopedics-Analytics-Dashboard/blob/main/Orthopedic%20Dashboard.png)
 ---
 
 ## Why This Project Stands Out  
